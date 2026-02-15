@@ -92,23 +92,36 @@ def main():
     ensure_dirs()
     seen = Seen(DB_PATH)
 
+    adapters = [
+        ("Controller", controller_jets),              # может 403
+        ("AvBuyer", avbuyer_jets),
+        ("GlobalAir", globalair_jets),
+        ("AeroClassifieds", aeroclassifieds_jets),
+        ("JamesEdition", jamesedition_jets),
+        ("Textron Pre-Owned", txtav_preowned_jets),
+    ]
+
     items = []
-    # пока один источник, потом добавим остальные
-    items += controller_jets()
+    failed = []
+
+    for name, fn in adapters:
+        try:
+            got = fn()
+            items += got
+            print(f"[OK] {name}: {len(got)} items")
+        except Exception as e:
+            failed.append((name, str(e)))
+            print(f"[WARN] {name} failed: {e}")
 
     items = [x for x in items if is_jet(x)]
 
-    new_items: List[Listing] = []
+    new_items = []
     for it in items:
         f = fp(it)
         if not seen.is_seen(f):
             new_items.append(it)
             seen.mark(f)
-        time.sleep(0.15)
 
-    report = make_report(new_items)
+    report = make_report(new_items, failed)
     with open(REPORT_PATH, "w", encoding="utf-8") as f:
         f.write(report)
-
-if __name__ == "__main__":
-    main()
