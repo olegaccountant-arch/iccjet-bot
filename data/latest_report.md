@@ -1,8 +1,9 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **3**
+Новых за сегодня: **0**
 
 ## Источники с ошибкой (не критично)
+- AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
 - GlobalAir: 403 for https://www.globalair.com/aircraft-for-sale/private-jet
 - AeroClassifieds: 403 for https://www.aeroclassifieds.com/
 - JamesEdition: 403 for https://www.jamesedition.com/jets
@@ -10,14 +11,4 @@
 
 ## Новые объявления
 
-- **Cessna Citation XLS**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/xls/373200
-
-- **Bombardier Global 6000**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/373732
-
-- **Dassault Falcon 2000**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000/373731
+Сегодня новых объявлений не найдено (или источники были заблокированы).
