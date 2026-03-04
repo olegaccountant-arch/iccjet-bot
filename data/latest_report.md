@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **2**
+Новых за сегодня: **0**
 
 ## Источники с ошибкой (не критично)
 - GlobalAir: 403 for https://www.globalair.com/aircraft-for-sale/private-jet
@@ -10,10 +10,4 @@
 
 ## Новые объявления
 
-- **Cessna Citation V Ultra**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/v-ultra/373780
-
-- **Cessna Citation CJ3**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/373779
+Сегодня новых объявлений не найдено (или источники были заблокированы).
