@@ -1,9 +1,8 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **0**
+Новых за сегодня: **2**
 
 ## Источники с ошибкой (не критично)
-- AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
 - GlobalAir: 403 for https://www.globalair.com/aircraft-for-sale/private-jet
 - AeroClassifieds: 403 for https://www.aeroclassifieds.com/
 - JamesEdition: 403 for https://www.jamesedition.com/jets
@@ -11,4 +10,10 @@
 
 ## Новые объявления
 
-Сегодня новых объявлений не найдено (или источники были заблокированы).
+- **Bombardier Global 5000**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/373827
+
+- **Bombardier Global 7500**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/7500/373823
