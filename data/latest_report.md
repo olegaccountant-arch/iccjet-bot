@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **5**
+Новых за сегодня: **2**
 
 ## Источники с ошибкой (не критично)
 - GlobalAir: 403 for https://www.globalair.com/aircraft-for-sale/private-jet
@@ -10,22 +10,10 @@
 
 ## Новые объявления
 
-- **Gulfstream G150**
+- **Bombardier Global 5000**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g150/373936
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/373952
 
-- **Dassault Falcon 900EX EASy**
+- **Dassault Falcon 50EX**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/900ex-easy/373937
-
-- **Cessna Citation Sovereign**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/sovereign/373933
-
-- **Cessna Citation Bravo**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/bravo/373930
-
-- **Cessna Citation Bravo**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/bravo/373929
+  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/50ex/373945
