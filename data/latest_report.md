@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **6**
+Новых за сегодня: **7**
 
 ## Источники с ошибкой (не критично)
 - AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
@@ -10,26 +10,30 @@
 
 ## Новые объявления
 
-- **2003 Citation Excel**
+- **2010 Citation Sovereign**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2003-citation-excel-jets/140729
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2010-citation-sovereign-jets/140743
 
-- **1989 Hawker 800A**
+- **2013 Global 6000**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1989-hawker-800a-jets/140724
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2013-global-6000-jets/138797
 
-- **2024 Citation Longitude**
+- **2007 Legacy 600**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2024-citation-longitude-jets/140723
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-legacy-600-jets/140739
 
-- **1995 Challenger 601-3R**
+- **2006 Legacy 600**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1995-challenger-601-3r-jets/140425
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2006-legacy-600-jets/140299
 
-- **2016 Global 6000**
+- **2008 Citation CJ1+**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-global-6000-jets/138660
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-citation-cj1plus-jets/133089
 
-- **1999 Hawker 800XP**
+- **2003 Challenger 604**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-hawker-800xp-jets/140695
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2003-challenger-604-jets/140681
+
+- **2011 Global XRS**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2011-global-xrs-jets/140701
