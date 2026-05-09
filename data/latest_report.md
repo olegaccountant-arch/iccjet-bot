@@ -1,39 +1,42 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **7**
+Новых за сегодня: **8**
 
 ## Источники с ошибкой (не критично)
-- AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
 - AeroClassifieds: 403 for https://www.aeroclassifieds.com/
 - JamesEdition: 403 for https://www.jamesedition.com/jets
 - Textron Pre-Owned: 404 for https://www.txtav.com/en/pre-owned
 
 ## Новые объявления
 
-- **2010 Citation Sovereign**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2010-citation-sovereign-jets/140743
+- **Bombardier Global Express XRS**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/express-xrs/374113
 
-- **2013 Global 6000**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2013-global-6000-jets/138797
+- **Bombardier Challenger 350**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/350/374099
 
-- **2007 Legacy 600**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-legacy-600-jets/140739
+- **Bombardier Global 5000**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/374096
 
-- **2006 Legacy 600**
+- **2008 Falcon 900DX EASy**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2006-legacy-600-jets/140299
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-falcon-900dx-easy-jets/140763
 
-- **2008 Citation CJ1+**
+- **2018 Falcon 7X**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-citation-cj1plus-jets/133089
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2018-falcon-7x-jets/140762
 
-- **2003 Challenger 604**
+- **2026 Global 8000**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2003-challenger-604-jets/140681
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2026-global-8000-jets/140755
 
-- **2011 Global XRS**
+- **2009 Citation XLS+**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2011-global-xrs-jets/140701
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2009-citation-xlsplus-jets/140730
+
+- **2019 Gulfstream G650ER**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2019-gulfstream-g650er-jets/140722
