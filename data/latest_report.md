@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **6**
+Новых за сегодня: **5**
 
 ## Источники с ошибкой (не критично)
 - AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
@@ -10,26 +10,22 @@
 
 ## Новые объявления
 
-- **2024 Citation M2 Gen2**
+- **2011 Learjet 60XR**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2024-citation-m2-gen2-jets/139380
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2011-learjet-60xr-jets/140824
 
-- **2004 Falcon 2000EX EASy**
+- **2009 Citation Sovereign**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2004-falcon-2000ex-easy-jets/139524
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2009-citation-sovereign-jets/140127
 
-- **2003 Boeing BBJ2**
+- **2001 Falcon 900EX**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2003-boeing-bbj2-jets/139599
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-falcon-900ex-jets/140011
 
-- **2024 Airbus ACJ220**
+- **2008 Citation XLS**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2024-airbus-acj220-jets/137556
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-citation-xls-jets/140821
 
-- **2016 Citation M2**
+- **1998 Gulfstream V**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-citation-m2-jets/140793
-
-- **1999 Gulfstream IV/SP**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-gulfstream-iv-sp-jets/140774
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1998-gulfstream-v-jets/138196
