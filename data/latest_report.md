@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **5**
+Новых за сегодня: **4**
 
 ## Источники с ошибкой (не критично)
 - AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
@@ -10,22 +10,18 @@
 
 ## Новые объявления
 
-- **2011 Learjet 60XR**
+- **2012 Challenger 300**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2011-learjet-60xr-jets/140824
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2012-challenger-300-jets/138467
 
-- **2009 Citation Sovereign**
+- **2007 Citation Encore+**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2009-citation-sovereign-jets/140127
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-citation-encoreplus-jets/140303
 
-- **2001 Falcon 900EX**
+- **2021 Falcon 8X**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-falcon-900ex-jets/140011
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2021-falcon-8x-jets/139857
 
-- **2008 Citation XLS**
+- **2002 Falcon 50EX**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-citation-xls-jets/140821
-
-- **1998 Gulfstream V**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1998-gulfstream-v-jets/138196
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2002-falcon-50ex-jets/140302
