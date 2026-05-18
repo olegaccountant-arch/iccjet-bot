@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **1**
+Новых за сегодня: **0**
 
 ## Источники с ошибкой (не критично)
 - AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
@@ -10,6 +10,4 @@
 
 ## Новые объявления
 
-- **Global 8000**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/global-8000
+Сегодня новых объявлений не найдено (или источники были заблокированы).
