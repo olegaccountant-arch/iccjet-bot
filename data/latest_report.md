@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **6**
+Новых за сегодня: **4**
 
 ## Источники с ошибкой (не критично)
 - AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
@@ -10,26 +10,18 @@
 
 ## Новые объявления
 
-- **1990 Challenger 601-3A**
+- **2001 Learjet 45**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1990-challenger-601-3a-jets/139899
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-learjet-45-jets/139890
 
-- **1989 Challenger 601-3A**
+- **2024 Citation XLS Gen 2**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1989-challenger-601-3a-jets/139829
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2024-citation-xls-gen-2-jets/138683
 
-- **2016 Citation Latitude**
+- **1998 Boeing Business Jet**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-citation-latitude-jets/140863
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1998-boeing-business-jet-jets/140893
 
-- **2019 Citation CJ3+**
+- **1992 Boeing 767**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2019-citation-cj3plus-jets/140859
-
-- **2008 Gulfstream G550**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-gulfstream-g550-jets/140832
-
-- **2014 Gulfstream G650**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2014-gulfstream-g650-jets/140814
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1992-boeing-767-jets/140892
