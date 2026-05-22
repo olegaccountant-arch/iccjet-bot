@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **4**
+Новых за сегодня: **3**
 
 ## Источники с ошибкой (не критично)
 - AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
@@ -10,18 +10,14 @@
 
 ## Новые объявления
 
-- **2001 Learjet 45**
+- **1998 Hawker 800XP**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-learjet-45-jets/139890
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1998-hawker-800xp-jets/140920
 
-- **2024 Citation XLS Gen 2**
+- **2007 Gulfstream G450**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2024-citation-xls-gen-2-jets/138683
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-gulfstream-g450-jets/140909
 
-- **1998 Boeing Business Jet**
+- **2019 Global 6000**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1998-boeing-business-jet-jets/140893
-
-- **1992 Boeing 767**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1992-boeing-767-jets/140892
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2019-global-6000-jets/140871
