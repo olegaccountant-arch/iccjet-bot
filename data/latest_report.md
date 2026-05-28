@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **10**
+Новых за сегодня: **8**
 
 ## Источники с ошибкой (не критично)
 - AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
@@ -10,42 +10,34 @@
 
 ## Новые объявления
 
-- **1980 Citation II**
+- **2007 Citation CJ1+**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1980-citation-ii-jets/140955
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-citation-cj1plus-jets/140118
 
-- **2008 Legacy 600**
+- **2016 Global 6000**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-legacy-600-jets/140954
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-global-6000-jets/140972
 
-- **1999 Citation Jet 525**
+- **2011 Legacy 650**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-citation-jet-525-jets/140947
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2011-legacy-650-jets/139649
 
-- **2004 Gulfstream G550**
+- **Global Jet Monaco**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2004-gulfstream-g550-jets/140945
+  - Link: https://www.globalair.com/aircraft-for-sale/listings-by-seller/global-jet-monaco/8988
 
-- **2004 Citation Encore**
+- **2023 Global 6500**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2004-citation-encore-jets/139751
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2023-global-6500-jets/140006
 
-- **2018 Lineage 1000E**
+- **2014 Falcon 7X**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2018-lineage-1000e-jets/138681
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2014-falcon-7x-jets/139504
 
-- **2016 Learjet 75**
+- **1993 Citation Jet 525**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-learjet-75-jets/140944
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1993-citation-jet-525-jets/140237
 
-- **2013 Citation Sovereign**
+- **2007 Gulfstream G450**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2013-citation-sovereign-jets/140934
-
-- **2008 Learjet 40XR**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-learjet-40xr-jets/140902
-
-- **2007 Learjet 60XR**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-learjet-60xr-jets/140918
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-gulfstream-g450-jets/140951
