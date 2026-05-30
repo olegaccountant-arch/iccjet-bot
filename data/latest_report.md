@@ -1,51 +1,34 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **10**
+Новых за сегодня: **6**
 
 ## Источники с ошибкой (не критично)
-- AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
 - AeroClassifieds: 403 for https://www.aeroclassifieds.com/
 - JamesEdition: 403 for https://www.jamesedition.com/jets
 - Textron Pre-Owned: 404 for https://www.txtav.com/en/pre-owned
 
 ## Новые объявления
 
-- **1993 Citation Jet 525**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1993-citation-jet-525-jets/140999
+- **Gulfstream IVSP**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/374205
 
-- **2002 Hawker 800XP w/API Winglets**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2002-hawker-800xp-jets/140995
+- **Dassault Falcon 8X**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/8x/372959
 
-- **2007 Gulfstream G450**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-gulfstream-g450-jets/140992
+- **Bombardier Global 6000**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/374203
 
-- **2007 Hawker 850XP**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-hawker-850xp-jets/140989
+- **Gulfstream G550**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g550/374201
 
-- **1998 Challenger 604**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1998-challenger-604-jets/140978
+- **Embraer Phenom 300E**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/phenom-300e/374200
 
-- **1995 Citation Ultra**
+- **1994 Citation VII**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1995-citation-ultra-jets/140968
-
-- **2015 Citation XLS+**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2015-citation-xlsplus-jets/140980
-
-- **2000 Gulfstream IV/SP**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-gulfstream-iv-sp-jets/140971
-
-- **2016 Citation Latitude**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-citation-latitude-jets/140970
-
-- **2015 Citation Sovereign+**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2015-citation-sovereignplus-jets/140949
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1994-citation-vii-jets/140326
