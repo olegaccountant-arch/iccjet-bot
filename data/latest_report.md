@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **8**
+Новых за сегодня: **11**
 
 ## Источники с ошибкой (не критично)
 - AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
@@ -10,34 +10,46 @@
 
 ## Новые объявления
 
-- **2006 Hawker 400XP**
+- **Cessna 182**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2006-hawker-400xp-jets/140136
+  - Link: https://www.globalair.com/aircraft-for-sale/cessna-182
 
-- **1980 Citation II**
+- **2008 Gulfstream G200**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1980-citation-ii-jets/140036
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-gulfstream-g200-jets/132959
 
-- **2012 Dassault Falcon 7X**
+- **1990 Falcon 900B**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/falcon-7x-jets/141045
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1990-falcon-900b-jets/141072
 
-- **2024 Praetor 600**
+- **1999 Falcon 2000**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2024-praetor-600-jets/141033
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-falcon-2000-jets/141069
 
-- **2009 Challenger 300**
+- **1994 Hawker 400XPR**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2009-challenger-300-jets/140983
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1994-hawker-400xpr-jets/133517
 
-- **2019 Gulfstream G600**
+- **1989 Citation V**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2019-gulfstream-g600-jets/141014
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1989-citation-v-jets/141068
 
-- **Gulfstream Pre-Owned**
+- **1994 Hawker 800SP**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listings-by-seller/gulfstream-pre-owned/3041
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1994-hawker-800sp-jets/137643
 
-- **2012 Falcon 7X**
+- **1999 Citation Excel**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2012-falcon-7x-jets/141009
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-citation-excel-jets/141061
+
+- **2010 Falcon 900EX EASy**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2010-falcon-900ex-easy-jets/139918
+
+- **2017 Challenger 350**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2017-challenger-350-jets/141023
+
+- **2008 Citation CJ3**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-citation-cj3-jets/141025
