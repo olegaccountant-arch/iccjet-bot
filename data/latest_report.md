@@ -1,35 +1,27 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **6**
+Новых за сегодня: **4**
 
 ## Источники с ошибкой (не критично)
-- AvBuyer: 403 for https://www.avbuyer.com/aircraft/private-jets
+- AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
 - AeroClassifieds: 403 for https://www.aeroclassifieds.com/
 - JamesEdition: 403 for https://www.jamesedition.com/jets
 - Textron Pre-Owned: 404 for https://www.txtav.com/en/pre-owned
 
 ## Новые объявления
 
-- **2002 Gulfstream G200**
+- **2007 Citation XLS**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2002-gulfstream-g200-jets/136067
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-citation-xls-jets/141071
 
-- **1995 Falcon 900B**
+- **2025 Global 8000**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1995-falcon-900b-jets/141078
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2025-global-8000-jets/141092
 
-- **2011 Learjet 60XR**
+- **2007 Gulfstream G150**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2011-learjet-60xr-jets/141080
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-gulfstream-g150-jets/139277
 
-- **2013 Challenger 300**
+- **2024 Citation CJ4 Gen 2**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2013-challenger-300-jets/139628
-
-- **2006 Learjet 40XR**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2006-learjet-40xr-jets/141050
-
-- **2000 Gulfstream IV/SP**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-gulfstream-iv-sp-jets/141027
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2024-citation-cj4-gen-2-jets/141057
