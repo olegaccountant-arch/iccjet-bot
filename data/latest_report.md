@@ -9,30 +9,30 @@
 
 ## Новые объявления
 
-- **Gulfstream IVSP**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/374242
-
-- **Bombardier Challenger 350**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/350/374237
-
-- **Bombardier Global 6000**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/374110
-
-- **Gulfstream G550**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g550/374223
-
-- **Bombardier Challenger 350**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/350/374221
-
 - **Dassault Falcon 7X**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/7x/374196
+  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/7x/374257
 
-- **2017 Falcon 2000LXS - DEAL PENDING**
+- **Bombardier Challenger 300**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/300/374253
+
+- **2005 Gulfstream G300**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2017-falcon-2000lxs-jets/139392
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2005-gulfstream-g300-jets/141116
+
+- **1999 Falcon 50EX**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-falcon-50ex-jets/141107
+
+- **2007 Challenger 300**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-challenger-300-jets/141096
+
+- **2010 Challenger 605**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2010-challenger-605-jets/141089
+
+- **2004 Gulfstream G200**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2004-gulfstream-g200-jets/140230
