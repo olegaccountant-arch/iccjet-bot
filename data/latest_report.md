@@ -1,38 +1,35 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **7**
+Новых за сегодня: **6**
 
 ## Источники с ошибкой (не критично)
+- AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
 - AeroClassifieds: 403 for https://www.aeroclassifieds.com/
 - JamesEdition: 403 for https://www.jamesedition.com/jets
 - Textron Pre-Owned: 404 for https://www.txtav.com/en/pre-owned
 
 ## Новые объявления
 
-- **Dassault Falcon 7X**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/7x/374257
-
-- **Bombardier Challenger 300**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/300/374253
-
-- **2005 Gulfstream G300**
+- **1980 Citation II**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2005-gulfstream-g300-jets/141116
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1980-citation-ii-jets/140497
 
-- **1999 Falcon 50EX**
+- **1996 Citation VII**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-falcon-50ex-jets/141107
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1996-citation-vii-jets/141137
 
-- **2007 Challenger 300**
+- **2001 Challenger 604**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-challenger-300-jets/141096
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-challenger-604-jets/140707
 
-- **2010 Challenger 605**
+- **2004 Learjet 45 XR**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2010-challenger-605-jets/141089
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2004-learjet-45-xr-jets/141132
 
-- **2004 Gulfstream G200**
+- **2004 Learjet 45 XR**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2004-gulfstream-g200-jets/140230
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2004-learjet-45-xr-jets/141111
+
+- **2013 Citation CJ2+**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2013-citation-cj2plus-jets/141122
