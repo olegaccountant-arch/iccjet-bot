@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **8**
+Новых за сегодня: **5**
 
 ## Источники с ошибкой (не критично)
 - AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
@@ -10,34 +10,22 @@
 
 ## Новые объявления
 
-- **2020 Gulfstream G650**
+- **2001 Gulfstream IV/SP - Deal Pending**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2020-gulfstream-g650-jets/141162
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-gulfstream-iv-sp-jets/139981
 
-- **1990 Challenger 601-1A**
+- **2011 Gulfstream G450**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1990-challenger-601-1a-jets/141161
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2011-gulfstream-g450-jets/141105
 
-- **2011 Learjet 45 XR**
+- **2007 Citation CJ3**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2011-learjet-45-xr-jets/136733
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-citation-cj3-jets/141170
 
-- **1999 Citation Ultra**
+- **2006 Citation CJ3**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-citation-ultra-jets/140967
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2006-citation-cj3-jets/141169
 
-- **2008 Citation CJ1+**
+- **2022 Global 6500**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-citation-cj1plus-jets/131606
-
-- **2008 Gulfstream G150**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-gulfstream-g150-jets/141142
-
-- **2006 Learjet 45 XR**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2006-learjet-45-xr-jets/141139
-
-- **2000 Learjet 45**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-learjet-45-jets/141120
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2022-global-6500-jets/141145
