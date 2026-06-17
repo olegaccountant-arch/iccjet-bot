@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **7**
+Новых за сегодня: **5**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -11,30 +11,22 @@
 
 ## Новые объявления
 
-- **1981 Citation I/SP**
+- **2000 Falcon 900EX**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1981-citation-i-sp-jets/141231
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-falcon-900ex-jets/141249
 
-- **2006 Gulfstream G200**
+- **1986 Citation S/II**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2006-gulfstream-g200-jets/141230
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1986-citation-s-ii-jets/141242
 
-- **1993 Challenger 601-1A/ER**
+- **2001 Gulfstream V**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1993-challenger-601-1a-er-jets/141199
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-gulfstream-v-jets/141238
 
-- **1981 Learjet 55**
+- **2021 Gulfstream G500**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1981-learjet-55-jets/141204
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2021-gulfstream-g500-jets/141200
 
-- **1991 Citation V**
+- **1987 Citation III**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1991-citation-v-jets/141203
-
-- **2004 Falcon 2000EX EASy**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2004-falcon-2000ex-easy-jets/141109
-
-- **2001 Citation Excel**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-citation-excel-jets/141184
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1987-citation-iii-jets/141198
