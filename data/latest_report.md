@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **0**
+Новых за сегодня: **1**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -11,4 +11,6 @@
 
 ## Новые объявления
 
-Сегодня новых объявлений не найдено (или источники были заблокированы).
+- **2008 Falcon 7X**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-falcon-7x-jets/138940
