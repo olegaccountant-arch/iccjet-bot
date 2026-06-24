@@ -4,40 +4,41 @@
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
+- AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
 - AeroClassifieds: 403 for https://www.aeroclassifieds.com/
 - JamesEdition: 403 for https://www.jamesedition.com/jets
 - Textron Pre-Owned: 404 for https://www.txtav.com/en/pre-owned
 
 ## Новые объявления
 
-- **Hawker Beechjet 400A**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/hawker/beechjet-400a/374358
+- **1998 Hawker 800XP**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1998-hawker-800xp-jets/141329
+
+- **1975 Citation 500**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1975-citation-500-jets/139485
+
+- **2016 Learjet 75**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-learjet-75-jets/141294
+
+- **2015 Challenger 350**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2015-challenger-350-jets/141314
+
+- **2012 Gulfstream G550**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2012-gulfstream-g550-jets/141298
 
 - **2020 Global 7500**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2020-global-7500-jets/141309
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2020-global-7500-jets/141285
 
-- **2007 Gulfstream G200**
+- **1989 Gulfstream IV**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-gulfstream-g200-jets/141306
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1989-gulfstream-iv-jets/141288
 
-- **2010 Challenger 300**
+- **2021 Citation CJ4 Gen 2**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2010-challenger-300-jets/141303
-
-- **2014 Citation M2**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2014-citation-m2-jets/134787
-
-- **2008 Gulfstream G150**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-gulfstream-g150-jets/131074
-
-- **1990 Learjet 31**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1990-learjet-31-jets/141292
-
-- **2025 Citation Longitude**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2025-citation-longitude-jets/141274
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2021-citation-cj4-gen-2-jets/141255
