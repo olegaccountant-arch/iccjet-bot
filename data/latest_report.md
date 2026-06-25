@@ -1,44 +1,75 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **8**
+Новых за сегодня: **16**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
-- AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
 - AeroClassifieds: 403 for https://www.aeroclassifieds.com/
 - JamesEdition: 403 for https://www.jamesedition.com/jets
 - Textron Pre-Owned: 404 for https://www.txtav.com/en/pre-owned
 
 ## Новые объявления
 
-- **1998 Hawker 800XP**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1998-hawker-800xp-jets/141329
+- **Embraer Phenom 100E**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/phenom-100e/374383
 
-- **1975 Citation 500**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1975-citation-500-jets/139485
+- **Gulfstream G450**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g450/374379
 
-- **2016 Learjet 75**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-learjet-75-jets/141294
+- **Bombardier Global 7500**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/7500/374377
 
-- **2015 Challenger 350**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2015-challenger-350-jets/141314
+- **Bombardier Global 7500**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/7500/374375
 
-- **2012 Gulfstream G550**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2012-gulfstream-g550-jets/141298
+- **Bombardier Global Express**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/express/374111
 
-- **2020 Global 7500**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2020-global-7500-jets/141285
+- **Cessna Citation Longitude**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/longitude/374370
 
-- **1989 Gulfstream IV**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1989-gulfstream-iv-jets/141288
+- **Cessna Citation Latitude**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/latitude/374368
 
-- **2021 Citation CJ4 Gen 2**
+- **Cessna Citation Sovereign+**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/sovereign-plus/374367
+
+- **2006 Falcon 50EX**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2021-citation-cj4-gen-2-jets/141255
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2006-falcon-50ex-jets/141349
+
+- **1985 Learjet 35A**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1985-learjet-35a-jets/140567
+
+- **2021 Global 7500**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2021-global-7500-jets/141352
+
+- **2010 Citation X**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2010-citation-x-jets/141196
+
+- **2012 Falcon 7X**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2012-falcon-7x-jets/141299
+
+- **2025 Citation Latitude**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2025-citation-latitude-jets/141308
+
+- **2008 Global 5000**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-global-5000-jets/141304
+
+- **2019 Challenger 350**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2019-challenger-350-jets/141301
