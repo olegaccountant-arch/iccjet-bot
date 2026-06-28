@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **6**
+Новых за сегодня: **0**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -11,26 +11,4 @@
 
 ## Новые объявления
 
-- **Falcon 7X**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/falcon-7x
-
-- **1982 Learjet 55**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1982-learjet-55-jets/139953
-
-- **2009 Gulfstream G450**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2009-gulfstream-g450-jets/140542
-
-- **2004 Gulfstream G200**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2004-gulfstream-g200-jets/141283
-
-- **2000 Citation X**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-citation-x-jets/141367
-
-- **2001 Falcon 50EX**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-falcon-50ex-jets/139472
+Сегодня новых объявлений не найдено (или источники были заблокированы).
