@@ -1,36 +1,43 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **6**
+Новых за сегодня: **8**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
-- AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
 - AeroClassifieds: 403 for https://www.aeroclassifieds.com/
 - JamesEdition: 403 for https://www.jamesedition.com/jets
 - Textron Pre-Owned: 404 for https://www.txtav.com/en/pre-owned
 
 ## Новые объявления
 
-- **2024 Citation CJ4 Gen 2**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2024-citation-cj4-gen-2-jets/141414
+- **Bombardier Challenger 300**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/300/374410
 
-- **2007 Citation Sovereign**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-citation-sovereign-jets/141413
+- **Gulfstream IVSP**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/374404
 
-- **2008 Hawker 900XP**
+- **2007 Legacy 600**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-hawker-900xp-jets/140208
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-legacy-600-jets/141428
 
-- **2007 Global XRS**
+- **2012 Global 6000**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-global-xrs-jets/141403
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2012-global-6000-jets/141422
 
-- **1999 Gulfstream IV/SP**
+- **2000 Gulfstream V**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-gulfstream-iv-sp-jets/141406
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-gulfstream-v-jets/138796
 
-- **2000 Gulfstream G200**
+- **2014 Citation XLS+**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-gulfstream-g200-jets/141369
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2014-citation-xlsplus-jets/138754
+
+- **2006 Legacy 600**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2006-legacy-600-jets/141374
+
+- **2001 Falcon 2000**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-falcon-2000-jets/140077
