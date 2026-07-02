@@ -1,43 +1,36 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **8**
+Новых за сегодня: **6**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
+- AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
 - AeroClassifieds: 403 for https://www.aeroclassifieds.com/
 - JamesEdition: 403 for https://www.jamesedition.com/jets
 - Textron Pre-Owned: 404 for https://www.txtav.com/en/pre-owned
 
 ## Новые объявления
 
-- **Bombardier Challenger 300**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/300/374410
-
-- **Gulfstream IVSP**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/374404
-
-- **2007 Legacy 600**
+- **2006 Citation CJ3**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-legacy-600-jets/141428
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2006-citation-cj3-jets/140314
 
-- **2012 Global 6000**
+- **2014 Falcon 7X**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2012-global-6000-jets/141422
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2014-falcon-7x-jets/141330
 
-- **2000 Gulfstream V**
+- **1995 Citation VI**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-gulfstream-v-jets/138796
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1995-citation-vi-jets/141416
 
-- **2014 Citation XLS+**
+- **2007 Citation Sovereign**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2014-citation-xlsplus-jets/138754
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-citation-sovereign-jets/141434
 
-- **2006 Legacy 600**
+- **2004 Citation X**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2006-legacy-600-jets/141374
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2004-citation-x-jets/141429
 
-- **2001 Falcon 2000**
+- **2007 Challenger 300**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-falcon-2000-jets/140077
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-challenger-300-jets/141424
