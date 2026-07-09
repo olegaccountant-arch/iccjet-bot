@@ -1,43 +1,32 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **8**
+Новых за сегодня: **5**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
+- AvBuyer: 405 for https://www.avbuyer.com/aircraft/private-jets
 - AeroClassifieds: 403 for https://www.aeroclassifieds.com/
 - JamesEdition: 403 for https://www.jamesedition.com/jets
 - Textron Pre-Owned: 404 for https://www.txtav.com/en/pre-owned
 
 ## Новые объявления
 
-- **Embraer Phenom 100**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/phenom-100/374444
-
-- **Bombardier Challenger 604**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/604/374442
-
-- **Bombardier Challenger 605**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/605/374435
-
-- **Cessna Citation Latitude**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/latitude/374434
-
-- **2002 Boeing 737**
+- **2020 Citation CJ3+**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2002-boeing-737-jets/141499
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2020-citation-cj3plus-jets/139980
 
-- **2008 Hawker 900XP**
+- **2000 Citation Excel**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-hawker-900xp-jets/141469
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-citation-excel-jets/141504
 
-- **2009 Challenger 605**
+- **1982 Learjet 35A**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2009-challenger-605-jets/141482
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1982-learjet-35a-jets/141491
 
-- **2002 Gulfstream IV/SP**
+- **2007 Citation CJ3**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2002-gulfstream-iv-sp-jets/141486
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-citation-cj3-jets/141497
+
+- **2006 Challenger 604**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2006-challenger-604-jets/141496
