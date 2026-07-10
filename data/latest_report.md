@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **5**
+Новых за сегодня: **4**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -11,22 +11,18 @@
 
 ## Новые объявления
 
-- **2020 Citation CJ3+**
+- **2000 Citation CJ2**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2020-citation-cj3plus-jets/139980
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-citation-cj2-jets/141537
 
-- **2000 Citation Excel**
+- **2003 Citation CJ2**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-citation-excel-jets/141504
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2003-citation-cj2-jets/141530
 
-- **1982 Learjet 35A**
+- **2019 Gulfstream G500**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1982-learjet-35a-jets/141491
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2019-gulfstream-g500-jets/141516
 
-- **2007 Citation CJ3**
+- **2005 Falcon 2000LX**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-citation-cj3-jets/141497
-
-- **2006 Challenger 604**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2006-challenger-604-jets/141496
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2005-falcon-2000lx-jets/141508
