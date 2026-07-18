@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **6**
+Новых за сегодня: **5**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -11,26 +11,22 @@
 
 ## Новые объявления
 
-- **2009 Hawker 4000**
+- **1974 Citation 500**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2009-hawker-4000-jets/141608
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1974-citation-500-jets/139729
 
-- **2008 Hawker 4000**
+- **1993 Challenger 601-3A/ER**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-hawker-4000-jets/139489
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1993-challenger-601-3a-er-jets/141199
 
-- **2002 Gulfstream G200**
+- **2016 Falcon 2000S**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2002-gulfstream-g200-jets/132625
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-falcon-2000s-jets/141612
 
-- **2007 Gulfstream G200**
+- **2019 Gulfstream G650ER**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-gulfstream-g200-jets/141591
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2019-gulfstream-g650er-jets/141607
 
-- **2001 Gulfstream G200**
+- **2001 Citation Excel**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-gulfstream-g200-jets/140037
-
-- **2002 Citation Excel**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2002-citation-excel-jets/141557
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-citation-excel-jets/141600
