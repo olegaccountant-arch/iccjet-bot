@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **4**
+Новых за сегодня: **3**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,18 +10,14 @@
 
 ## Новые объявления
 
-- **Bombardier Global 6000**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/373193
-
-- **2015 Citation Sovereign+**
+- **2002 Global Express**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2015-citation-sovereignplus-jets/141669
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2002-global-express-jets/141679
 
-- **Boeing Aerospace Jets aircraft for sale**
+- **2008 Gulfstream G450**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/private-jet/boeing-aerospace
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-gulfstream-g450-jets/141665
 
-- **Bombardier Jets aircraft for sale**
+- **2016 Gulfstream G650ER**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/private-jet/bombardier
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-gulfstream-g650er-jets/141668
