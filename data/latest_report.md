@@ -1,15 +1,13 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **1**
+Новых за сегодня: **0**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
 - AeroClassifieds: 403 for https://www.aeroclassifieds.com/
 - JamesEdition: 403 for https://www.jamesedition.com/jets
-- Textron Pre-Owned: 404 for https://www.txtav.com/en/pre-owned
+- Textron Pre-Owned: HTTPSConnectionPool(host='www.txtav.com', port=443): Max retries exceeded with url: /en/pre-owned (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.txtav.com', port=443) at
 
 ## Новые объявления
 
-- **Legacy 600**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/legacy-600
+Сегодня новых объявлений не найдено (или источники были заблокированы).
