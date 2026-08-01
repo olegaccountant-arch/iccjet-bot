@@ -10,30 +10,30 @@
 
 ## Новые объявления
 
-- **Dassault Falcon 8X**
+- **Cessna Citation Mustang**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/8x/374569
+  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/mustang/374577
 
-- **2019 Gulfstream G550**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2019-gulfstream-g550-jets/141756
+- **Bombardier Learjet 35A**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-learjet/35a/374574
 
-- **2024 Citation Latitude**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2024-citation-latitude-jets/141720
+- **Gulfstream V**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/v/374572
 
-- **2018 Falcon 8X**
+- **2001 Learjet 31A**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2018-falcon-8x-jets/141740
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-learjet-31a-jets/139320
 
-- **2015 Gulfstream G280**
+- **2017 Learjet 75**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2015-gulfstream-g280-jets/141723
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2017-learjet-75-jets/138188
 
-- **2014 Falcon 7X**
+- **2010 Global XRS**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2014-falcon-7x-jets/141531
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2010-global-xrs-jets/141749
 
-- **Dassault Falcon Jet Corp.**
+- **2011 Challenger 605**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listings-by-seller/dassault-falcon-jet-corp/3300
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2011-challenger-605-jets/141734
