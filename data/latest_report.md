@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **9**
+Новых за сегодня: **11**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,38 +10,46 @@
 
 ## Новые объявления
 
+- **Gulfstream IVSP**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/374595
+
 - **Bombardier Global 5000**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/374576
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/374592
 
-- **Bombardier Challenger 300**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/300/374587
-
-- **1992 Citation II**
+- **2025 Citation XLS Gen 2**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1992-citation-ii-jets/141785
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2025-citation-xls-gen-2-jets/141808
 
-- **2013 Global 6000**
+- **2018 Citation XLS**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2013-global-6000-jets/141783
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2018-citation-xls-jets/141807
 
-- **2000 Gulfstream V**
+- **2025 Citation CJ4 Gen 2**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-gulfstream-v-jets/141763
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2025-citation-cj4-gen-2-jets/141806
 
-- **2009 Global 5000**
+- **2016 Citation CJ3**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2009-global-5000-jets/141759
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-citation-cj3-jets/141805
 
-- **2008 Citation XLS**
+- **2024 Citation CJ4 Gen 2**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-citation-xls-jets/141732
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2024-citation-cj4-gen-2-jets/141804
 
-- **2008 Challenger 300**
+- **2000 Citation Bravo**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-challenger-300-jets/141726
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-citation-bravo-jets/134752
 
-- **2003 Gulfstream G200**
+- **1997 Hawker 800XP**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2003-gulfstream-g200-jets/141754
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1997-hawker-800xp-jets/138664
+
+- **1995 Citation Ultra**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1995-citation-ultra-jets/141788
+
+- **2011 Challenger 300**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2011-challenger-300-jets/141780
