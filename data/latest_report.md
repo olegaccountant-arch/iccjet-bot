@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **6**
+Новых за сегодня: **4**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,26 +10,18 @@
 
 ## Новые объявления
 
-- **Airbus ACJ319neo**
+- **Dassault Falcon 2000**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/airbus/acj319-neo/374603
+  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000/374609
 
-- **2000 Falcon 50EX**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-falcon-50ex-jets/141839
+- **Dassault Falcon 900EX**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/900ex/374608
 
-- **2002 Falcon 2000**
+- **2001 Falcon 2000**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2002-falcon-2000-jets/141822
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-falcon-2000-jets/141840
 
-- **2008 Citation CJ3**
+- **2019 Global 8000**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-citation-cj3-jets/134259
-
-- **2020 Gulfstream G500**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2020-gulfstream-g500-jets/141833
-
-- **1986 Falcon 50-40**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1986-falcon-50-40-jets/141821
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2019-global-8000-jets/141823
