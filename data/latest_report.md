@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **5**
+Новых за сегодня: **4**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,22 +10,18 @@
 
 ## Новые объявления
 
-- **1981 Citation II**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1981-citation-ii-jets/141861
+- **Dassault Falcon 2000**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000/374625
 
-- **1999 Falcon 900EX**
+- **1990 Citation V**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-falcon-900ex-jets/141830
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1990-citation-v-jets/141876
 
-- **2002 Falcon 50EX**
+- **2016 Challenger 650**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2002-falcon-50ex-jets/141820
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-challenger-650-jets/141854
 
-- **2015 Gulfstream G280**
+- **2001 Gulfstream IV/SP**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2015-gulfstream-g280-jets/141844
-
-- **1998 Falcon 2000**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1998-falcon-2000-jets/141837
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-gulfstream-iv-sp-jets/133525
