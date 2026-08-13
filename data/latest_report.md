@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **4**
+Новых за сегодня: **8**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,18 +10,34 @@
 
 ## Новые объявления
 
-- **Dassault Falcon 2000**
+- **Hawker 900XP**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000/374625
+  - Link: https://www.avbuyer.com/aircraft/private-jets/hawker/900xp/374631
 
-- **1990 Citation V**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1990-citation-v-jets/141876
+- **Hawker 4000**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/hawker/4000/374627
 
-- **2016 Challenger 650**
+- **1992 Learjet 31A**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-challenger-650-jets/141854
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1992-learjet-31a-jets/133073
 
-- **2001 Gulfstream IV/SP**
+- **1999 Global Express**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-gulfstream-iv-sp-jets/133525
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-global-express-jets/141409
+
+- **2010 Hawker 4000**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2010-hawker-4000-jets/141881
+
+- **1990 Falcon 900B**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1990-falcon-900b-jets/141869
+
+- **1980 Citation II**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1980-citation-ii-jets/141871
+
+- **2000 Global Express**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-global-express-jets/141858
