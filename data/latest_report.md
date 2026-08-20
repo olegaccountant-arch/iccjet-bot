@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **7**
+Новых за сегодня: **10**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,30 +10,42 @@
 
 ## Новые объявления
 
-- **Cessna Citation CJ3**
+- **Dassault Falcon 50-40**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/cj3/374667
+  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/50-40/374675
 
-- **Gulfstream G600**
+- **Bombardier Global 6000**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g600/374666
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/374670
 
-- **Bombardier Global 5000**
+- **Cessna Citation XLS**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/5000/374663
+  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/xls/374669
 
-- **Hawker 400XP**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/hawker/400xp/374661
-
-- **Gulfstream G450**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g450/374660
-
-- **2004 Citation XLS**
+- **1981 Citation II**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2004-citation-xls-jets/141940
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1981-citation-ii-jets/137772
 
-- **2013 Global 5000**
+- **2002 Citation Bravo**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2013-global-5000-jets/141936
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2002-citation-bravo-jets/141950
+
+- **2004 Citation Encore**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2004-citation-encore-jets/140143
+
+- **2019 Praetor 600**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2019-praetor-600-jets/140456
+
+- **2008 Citation CJ2+**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-citation-cj2plus-jets/135598
+
+- **2012 Global 6000**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2012-global-6000-jets/141941
+
+- **1993 Challenger 601-3A/ER**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1993-challenger-601-3a-er-jets/130835
