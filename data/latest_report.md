@@ -10,30 +10,30 @@
 
 ## Новые объявления
 
-- **Cessna Citation Excel**
+- **Cessna Citation M2 GEN2**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/excel/374686
+  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/m2-gen2/374694
 
-- **Bombardier Global 6000**
+- **Airbus ACJ TwoTwenty**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/374680
+  - Link: https://www.avbuyer.com/aircraft/private-jets/airbus/acj-twotwenty/374693
 
-- **2016 Citation Latitude**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-citation-latitude-jets/139869
+- **Bombardier Learjet 40**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-learjet/40/374691
 
-- **2014 Gulfstream G650ER**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2014-gulfstream-g650er-jets/141970
+- **Bombardier Learjet 75**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-learjet/75/374690
 
-- **2009 Challenger 850**
+- **2008 Learjet 45 XR**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2009-challenger-850-jets/141959
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-learjet-45-xr-jets/141987
 
-- **2000 Citation Excel**
+- **2025 Airbus ACJ220**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-citation-excel-jets/141957
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2025-airbus-acj220-jets/141981
 
-- **2009 Falcon 2000LX**
+- **2013 Learjet 75**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2009-falcon-2000lx-jets/141946
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2013-learjet-75-jets/141977
