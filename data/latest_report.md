@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **4**
+Новых за сегодня: **9**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,18 +10,38 @@
 
 ## Новые объявления
 
-- **1973 Learjet 25B**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1973-learjet-25b-jets/141995
+- **Gulfstream G280**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g280/374714
 
-- **2007 Global XRS**
+- **Gulfstream IVSP**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/374707
+
+- **Bombardier Learjet 45XR**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45xr/374705
+
+- **Embraer Legacy 600**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/legacy-600/374704
+
+- **2016 Gulfstream G650ER**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-global-xrs-jets/141973
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-gulfstream-g650er-jets/141988
+
+- **2020 Challenger 650**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2020-challenger-650-jets/141996
 
 - **1999 Falcon 2000**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-falcon-2000-jets/141974
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-falcon-2000-jets/141976
 
-- **2009 Legacy 600**
+- **2008 Learjet 45 XR**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2009-legacy-600-jets/141942
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-learjet-45-xr-jets/142001
+
+- **2023 Citation M2 Gen2**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2023-citation-m2-gen2-jets/141982
