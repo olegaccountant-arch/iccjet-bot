@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **15**
+Новых за сегодня: **10**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,62 +10,42 @@
 
 ## Новые объявления
 
-- **Dassault Falcon 2000LX**
+- **Bombardier Global Express XRS**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000lx/374721
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/express-xrs/374729
 
-- **Bombardier Challenger 650**
+- **Bombardier Challenger 604**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/650/374718
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/604/374728
 
-- **2015 Global 6000**
+- **2010 Falcon 900EX EASy**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2015-global-6000-jets/142031
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2010-falcon-900ex-easy-jets/142048
 
-- **1996 Citation Jet 525**
+- **2009 Global XRS**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1996-citation-jet-525-jets/139359
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2009-global-xrs-jets/142069
 
-- **2022 Citation Longitude**
+- **1995 Gulfstream IV/SP**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2022-citation-longitude-jets/142042
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1995-gulfstream-iv-sp-jets/142061
 
-- **2008 Learjet 45 XR**
+- **1994 Learjet 60**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-learjet-45-xr-jets/140448
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1994-learjet-60-jets/140566
 
-- **2022 Citation Latitude**
+- **2007 Learjet 45 XR**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2022-citation-latitude-jets/142035
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-learjet-45-xr-jets/142049
 
-- **2024 Citation XLS+**
+- **2016 Gulfstream G650ER**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2024-citation-xlsplus-jets/141998
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-gulfstream-g650er-jets/142012
 
-- **2014 Citation XLS+**
+- **1999 Gulfstream IV/SP**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2014-citation-xlsplus-jets/142034
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-gulfstream-iv-sp-jets/142046
 
-- **2014 Falcon 7X**
+- **2001 Learjet 60**
   - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2014-falcon-7x-jets/142010
-
-- **2022 Citation CJ4 Gen 2**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2022-citation-cj4-gen-2-jets/142033
-
-- **2000 Challenger 604**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2000-challenger-604-jets/142011
-
-- **2016 Citation CJ4**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-citation-cj4-jets/142032
-
-- **2015 Gulfstream G280**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2015-gulfstream-g280-jets/142014
-
-- **1996 Gulfstream IV/SP**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1996-gulfstream-iv-sp-jets/141993
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-learjet-60-jets/142045
