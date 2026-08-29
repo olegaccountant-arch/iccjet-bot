@@ -10,42 +10,42 @@
 
 ## Новые объявления
 
-- **Bombardier Global Express XRS**
+- **Airbus (12)**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/express-xrs/374729
+  - Link: https://www.avbuyer.com/aircraft/private-jets/airbus?currency=EUR
 
-- **Bombardier Challenger 604**
+- **Boeing (8)**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/604/374728
+  - Link: https://www.avbuyer.com/aircraft/private-jets/boeing?currency=EUR
 
-- **2010 Falcon 900EX EASy**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2010-falcon-900ex-easy-jets/142048
+- **Bombardier Challenger (47)**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger?currency=EUR
 
-- **2009 Global XRS**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2009-global-xrs-jets/142069
+- **Bombardier Global (63)**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global?currency=EUR
 
-- **1995 Gulfstream IV/SP**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1995-gulfstream-iv-sp-jets/142061
+- **Bombardier Learjet (38)**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-learjet?currency=EUR
 
-- **1994 Learjet 60**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1994-learjet-60-jets/140566
+- **Cessna Citation (85)**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation?currency=EUR
 
-- **2007 Learjet 45 XR**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-learjet-45-xr-jets/142049
+- **Dassault Falcon (64)**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon?currency=EUR
 
-- **2016 Gulfstream G650ER**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2016-gulfstream-g650er-jets/142012
+- **Embraer (41)**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer?currency=EUR
 
-- **1999 Gulfstream IV/SP**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1999-gulfstream-iv-sp-jets/142046
+- **Gulfstream (103)**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream?currency=EUR
 
-- **2001 Learjet 60**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2001-learjet-60-jets/142045
+- **Hawker (23)**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/hawker?currency=EUR
