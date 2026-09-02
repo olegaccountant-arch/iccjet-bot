@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **4**
+Новых за сегодня: **2**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,18 +10,10 @@
 
 ## Новые объявления
 
-- **Gulfstream G550**
+- **Gulfstream G200**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g550/374737
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g200/374745
 
-- **2007 Citation X**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2007-citation-x-jets/140492
-
-- **2010 Citation CJ3**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2010-citation-cj3-jets/133999
-
-- **2003 Citation Bravo**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2003-citation-bravo-jets/139827
+- **Dassault Falcon 7X**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/7x/374738
