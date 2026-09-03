@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **2**
+Новых за сегодня: **0**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,10 +10,4 @@
 
 ## Новые объявления
 
-- **Gulfstream G200**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g200/374745
-
-- **Dassault Falcon 7X**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/7x/374738
+Сегодня новых объявлений не найдено (или источники были заблокированы).
