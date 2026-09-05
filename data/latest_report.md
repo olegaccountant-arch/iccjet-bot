@@ -10,6 +10,6 @@
 
 ## Новые объявления
 
-- **Bombardier Learjet 60**
+- **Dassault Falcon 7X**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-learjet/60/374752
+  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/7x/374757
