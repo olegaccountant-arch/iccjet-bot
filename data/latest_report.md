@@ -10,14 +10,14 @@
 
 ## Новые объявления
 
-- **Dassault Falcon 900EX EASy**
+- **Hawker Beechjet 400A**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/900ex-easy/374784
+  - Link: https://www.avbuyer.com/aircraft/private-jets/hawker/beechjet-400a/374796
 
-- **Bombardier Global 6000**
+- **Gulfstream IVSP**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/374783
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/374793
 
-- **Bombardier Learjet 45XR**
+- **Gulfstream G200**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-learjet/45xr/374782
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g200/374791
