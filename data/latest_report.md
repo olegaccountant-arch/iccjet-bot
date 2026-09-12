@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **3**
+Новых за сегодня: **1**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,14 +10,6 @@
 
 ## Новые объявления
 
-- **Hawker Beechjet 400A**
+- **Embraer Praetor 600**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/hawker/beechjet-400a/374796
-
-- **Gulfstream IVSP**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/374793
-
-- **Gulfstream G200**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g200/374791
+  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/praetor-600/374798
