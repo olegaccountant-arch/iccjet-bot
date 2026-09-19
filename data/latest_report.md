@@ -10,6 +10,6 @@
 
 ## Новые объявления
 
-- **Gulfstream G150**
+- **Gulfstream G200**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g150/374828
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g200/374835
