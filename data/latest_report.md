@@ -10,6 +10,6 @@
 
 ## Новые объявления
 
-- **2017 Gulfstream G650ER**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2017-gulfstream-g650er-jets/142368
+- **Cessna Citation VII**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/vii/374898
