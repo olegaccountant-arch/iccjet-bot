@@ -10,6 +10,6 @@
 
 ## Новые объявления
 
-- **Cessna Citation VII**
+- **Embraer Phenom 300E**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/vii/374898
+  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/phenom-300e/374903
