@@ -10,6 +10,6 @@
 
 ## Новые объявления
 
-- **Embraer Phenom 300E**
+- **Gulfstream G280**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/phenom-300e/374903
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g280/374905
