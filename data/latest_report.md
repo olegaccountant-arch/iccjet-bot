@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **3**
+Новых за сегодня: **1**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,14 +10,6 @@
 
 ## Новые объявления
 
-- **Cessna Citation CJ4 Gen 2**
+- **Embraer Praetor 500**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/cj4/374915
-
-- **Cessna Citation Sovereign**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/sovereign/374910
-
-- **Cessna Citation Excel**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/excel/374908
+  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/praetor-500/374919
