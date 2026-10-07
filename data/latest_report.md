@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **1**
+Новых за сегодня: **4**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,6 +10,18 @@
 
 ## Новые объявления
 
-- **Embraer Praetor 500**
+- **Gulfstream G200**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/praetor-500/374919
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g200/374944
+
+- **Gulfstream G550**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g550/374925
+
+- **1998 Falcon 900EX**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1998-falcon-900ex-jets/142447
+
+- **Dassault Falcon Jet**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/dassault-falcon-jet
