@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **3**
+Новых за сегодня: **0**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,14 +10,4 @@
 
 ## Новые объявления
 
-- **Hawker 900XP**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/hawker/900xp/374964
-
-- **Bombardier Global Express XRS**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/express-xrs/374962
-
-- **2012 Learjet 60XR**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2012-learjet-60xr-jets/142592
+Сегодня новых объявлений не найдено (или источники были заблокированы).
