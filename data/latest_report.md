@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **2**
+Новых за сегодня: **1**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,10 +10,6 @@
 
 ## Новые объявления
 
-- **Embraer Phenom 300**
+- **Gulfstream G350**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/phenom-300/374972
-
-- **Embraer Phenom 300**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/phenom-300/374970
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g350/374985
