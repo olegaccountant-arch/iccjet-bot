@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **1**
+Новых за сегодня: **2**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,6 +10,10 @@
 
 ## Новые объявления
 
-- **Gulfstream G350**
+- **Gulfstream G280**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g350/374985
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g280/374990
+
+- **Gulfstream G650ER**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g650er/374989
