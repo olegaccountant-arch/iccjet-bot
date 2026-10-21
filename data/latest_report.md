@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **3**
+Новых за сегодня: **4**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,14 +10,18 @@
 
 ## Новые объявления
 
+- **Hawker 750**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/hawker/750/375046
+
+- **Bombardier Challenger 300**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/300/375045
+
 - **Dassault Falcon 7X**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/7x/375018
+  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/7x/375035
 
-- **Bombardier Learjet 60XR**
+- **Bombardier Challenger 350**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-learjet/60xr/375004
-
-- **Gulfstream G280**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/gulfstream-g280
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/350/375033
