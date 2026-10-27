@@ -9,31 +9,31 @@
 
 ## Новые объявления
 
-- **Gulfstream G650ER**
+- **Bombardier Challenger 605**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g650er/375068
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/605/375083
 
-- **2008 Challenger 605**
-  - Source: GlobalAir
-  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/2008-challenger-605-jets/142789
+- **Cessna Citation XLS+**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/xls-plus/375073
 
-- **Inquire 2006
+- **Inquire 2010
                                         
-                                        Private Jet Gulfstream G550 Gulfstream G550 6894
-                                        Hrs 2006 16**
+                                        Private Jet Bombardier Challenger 605 Bombardier Challenger 605 3672
+                                        Hrs 2010 10**
   - Source: AeroClassifieds
-  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/gulfstream/g550/5120
+  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/bombardier/challenger-605/5776
 
-- **Inquire 1997
+- **Inquire 2011
                                         
-                                        Private Jet Gulfstream GV Gulfstream G-V 11191
-                                        Hrs 1997 14**
+                                        Private Jet Cessna Citation XLS+ Cessna Citation XLS 5479
+                                        Hrs 2011 9**
   - Source: AeroClassifieds
-  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/gulfstream/g-v/532
+  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/cessna/citation-xls-xls-plus/560XL-6083
 
-- **Inquire 2013
+- **Inquire 2011
                                         
-                                        Private Jet Gulfstream G650ER Gulfstream G650 3268
-                                        Hrs 2013 13**
+                                        Private Jet Gulfstream G550 Gulfstream G550 6827
+                                        Hrs 2011 18**
   - Source: AeroClassifieds
-  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/gulfstream/g650/6041
+  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/gulfstream/g550/5323
