@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **5**
+Новых за сегодня: **2**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -9,31 +9,13 @@
 
 ## Новые объявления
 
-- **Bombardier Challenger 605**
+- **Dassault Falcon 2000LX**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/605/375083
+  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000lx/375087
 
-- **Cessna Citation XLS+**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/cessna-citation/xls-plus/375073
-
-- **Inquire 2010
+- **Inquire 2002
                                         
-                                        Private Jet Bombardier Challenger 605 Bombardier Challenger 605 3672
-                                        Hrs 2010 10**
+                                        Private Jet Cessna CJ2 Cessna CJ2 / CJ2+ 4510
+                                        Hrs 2002 7**
   - Source: AeroClassifieds
-  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/bombardier/challenger-605/5776
-
-- **Inquire 2011
-                                        
-                                        Private Jet Cessna Citation XLS+ Cessna Citation XLS 5479
-                                        Hrs 2011 9**
-  - Source: AeroClassifieds
-  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/cessna/citation-xls-xls-plus/560XL-6083
-
-- **Inquire 2011
-                                        
-                                        Private Jet Gulfstream G550 Gulfstream G550 6827
-                                        Hrs 2011 18**
-  - Source: AeroClassifieds
-  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/gulfstream/g550/5323
+  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/cessna/cj2/525A-0092
