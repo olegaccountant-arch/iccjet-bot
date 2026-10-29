@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **2**
+Новых за сегодня: **3**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -9,13 +9,14 @@
 
 ## Новые объявления
 
-- **Dassault Falcon 2000LX**
+- **Embraer Phenom 100E**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/2000lx/375087
+  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/phenom-100e/375098
 
-- **Inquire 2002
-                                        
-                                        Private Jet Cessna CJ2 Cessna CJ2 / CJ2+ 4510
-                                        Hrs 2002 7**
-  - Source: AeroClassifieds
-  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/cessna/cj2/525A-0092
+- **Bombardier Challenger 350**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/350/375097
+
+- **Bombardier Global 5500**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/5500/375091
