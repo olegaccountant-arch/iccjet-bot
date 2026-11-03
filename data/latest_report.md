@@ -9,10 +9,10 @@
 
 ## Новые объявления
 
-- **Bombardier Challenger 650**
+- **Gulfstream G650**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/650/375115
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g650/375118
 
-- **Gulfstream G800**
+- **Bombardier Global 6000**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g800/375114
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/375120
