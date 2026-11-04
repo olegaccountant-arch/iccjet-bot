@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **2**
+Новых за сегодня: **1**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -9,10 +9,6 @@
 
 ## Новые объявления
 
-- **Gulfstream G650**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g650/375118
-
-- **Bombardier Global 6000**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/375120
+- **1997 Gulfstream V**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/listing-detail/1997-gulfstream-v-jets/142792
