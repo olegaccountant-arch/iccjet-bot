@@ -9,6 +9,6 @@
 
 ## Новые объявления
 
-- **Gulfstream G550**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g550/375148
+- **Falcon 2000**
+  - Source: GlobalAir
+  - Link: https://www.globalair.com/aircraft-for-sale/falcon-2000
