@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **6**
+Новых за сегодня: **8**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -9,38 +9,40 @@
 
 ## Новые объявления
 
-- **Gulfstream IVSP**
+- **Gulfstream G280**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/ivsp/375217
+  - Link: https://www.avbuyer.com/aircraft/private-jets/gulfstream/g280/375227
 
-- **Bombardier Challenger 350**
+- **Boeing BBJ**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/350/375206
+  - Link: https://www.avbuyer.com/aircraft/private-jets/boeing/bbj/375226
 
-- **Inquire 1998
-                                        
-                                        Private Jet Gulfstream GIVSP Gulfstream G-IV 11261
-                                        Hrs 1998 12**
-  - Source: AeroClassifieds
-  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/gulfstream/g-iv/1331
+- **Bombardier Global Express**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/express/375225
 
-- **Inquire 2023
-                                        
-                                        Private Jet Cessna Citation M2 Gen2 Cessna Citation M2 646
-                                        Hrs 2023 5**
-  - Source: AeroClassifieds
-  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/cessna/citation-m2/525-1158
+- **Bombardier Global 6000**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/6000/375224
 
-- **Inquire 1998
-                                        
-                                        Private Jet Cessna Citation V Ultra Cessna Citation V 4132
-                                        Hrs 1998 9**
-  - Source: AeroClassifieds
-  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/cessna/citation-v-ultra-encore/560-0458
+- **Bombardier Challenger 604**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-challenger/604/375223
 
-- **Make Offer 2008
+- **Embraer Phenom 300E**
+  - Source: AvBuyer
+  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/phenom-300e/375222
+
+- **Inquire 2009
                                         
-                                        Private Jet Gulfstream G550 Gulfstream G550 7451
-                                        Hrs 2008 16**
+                                        Private Jet Hawker 4000 Hawker 4000 3568
+                                        Hrs 2009 10**
   - Source: AeroClassifieds
-  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/gulfstream/g550/5199
+  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/hawker/4000/RC-17
+
+- **Call For Price 2020
+                                        
+                                        Private Jet Gulfstream G600 Gulfstream G600 1225
+                                        Hrs 2020 15**
+  - Source: AeroClassifieds
+  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/gulfstream/g600/73014
