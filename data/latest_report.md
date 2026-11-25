@@ -1,6 +1,6 @@
 # Daily Business Jet Listings
 
-Новых за сегодня: **6**
+Новых за сегодня: **2**
 
 ## Источники с ошибкой (не критично)
 - Controller: 403 for https://www.controller.com/listings/for-sale/jet-aircraft/3
@@ -10,32 +10,13 @@
 
 ## Новые объявления
 
-- **Dassault Falcon 50EX**
+- **Embraer Phenom 300**
   - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/dassault-falcon/50ex/375262
+  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/phenom-300/375263
 
-- **Embraer Praetor 500**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/praetor-500/375261
-
-- **Embraer Phenom 300E**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/embraer/phenom-300e/375257
-
-- **Bombardier Global 6500**
-  - Source: AvBuyer
-  - Link: https://www.avbuyer.com/aircraft/private-jets/bombardier-global/6500/375256
-
-- **$6,795,000 2005
+- **Please Call 2025
                                         
-                                        Private Jet Cessna Citation Sovereign Cessna Citation Sovereign 5778
-                                        Hrs 2005 8**
+                                        Private Jet Embraer Praetor 500 Embraer Praetor 500 346
+                                        Hrs 2025 9**
   - Source: AeroClassifieds
-  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/cessna/citation-sovereign/680-0034
-
-- **Inquire 2010
-                                        
-                                        Private Jet Cessna CJ4 Cessna CJ4 2500
-                                        Hrs 2010 N/A**
-  - Source: AeroClassifieds
-  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/cessna/cj4/525C-0009
+  - Link: https://www.aeroclassifieds.com/aircraft/business-jet/embraer/praetor-500/55010140
